@@ -1,14 +1,4 @@
 #gerador de placas automotivas
-
-#import random
-
-#def gerar_placas():
- #   numero = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-  #  letra = ["A","B","C","D","E","F","G","H","I","J","K","L","M",
-   #           "N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
-    
-        
-
 import random
 
 def gerar_placa_automotiva():
