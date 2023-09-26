@@ -1,6 +1,8 @@
 import os
 import datetime
 
+# Mudar o diretório onde os arquivos serão salvos (Mudar para o seu diretório de preferência) - linha 97.
+
 class Evento:
     def __init__(self, diretorio):
         self.diretorio = diretorio
